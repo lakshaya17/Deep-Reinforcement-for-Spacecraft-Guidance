@@ -7,4 +7,6 @@ deep neural network to act as the guidance strategy for spacecraft proximity ope
 probability of its reward falling within a specified range. The scenario under consideration is the pose tracking and docking of a chaser spacecraft to a stationary target spacecraft. After several hours of training, the policy network learns to reduce the chaser spacecraft error from the desired positions. The episodic
 rewards, losses, and training trajectories of the trained network are compared to those of the reference paper.
 
+Reference paper: https://arc.aiaa.org/doi/full/10.2514/1.A34838
+
 ## Note: This repository contains only Program 2 of the project
